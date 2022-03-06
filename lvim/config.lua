@@ -38,6 +38,7 @@ let python_highlight_all=1
 set guicursor=i:
 set noerrorbells
 set tabstop =4 softtabstop=4
+set relativenumber
 set shiftwidth=4
 set expandtab 
 set smartindent
